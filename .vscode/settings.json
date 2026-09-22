@@ -1,0 +1,20 @@
+{
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.parquet": "duckdb.dataFileViewer",
+        "*.csv": "duckdb.dataFileViewer",
+        "*.tsv": "duckdb.dataFileViewer",
+        "*.xlsx": "duckdb.dataFileViewer"
+    },
+    "duckdb.databases": [
+        {
+            "alias": "SQL",
+            "type": "file",
+            "path": "/workspaces/Atividade-FAP/dados/SQL.duckdb",
+            "attached": true
+        }
+    ],
+    "duckdb.defaultDatabase": "SQL",
+    "editor.tokenColorCustomizations": {
+    "comments": "#00008B"
+}

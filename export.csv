@@ -1,0 +1,17 @@
+tipo_acidente,total_acidentes,acidentes_fatais,taxa_letalidade_percentual,lift
+Colisão frontal,14233,4243,29.81,4.16
+Atropelamento de Pedestre,9356,2710,28.97,4.04
+Colisão lateral sentido oposto,6198,541,8.73,1.22
+Eventos atípicos,871,71,8.15,1.14
+Atropelamento de Animal,3548,232,6.54,0.91
+Saída de leito carroçável,31235,1811,5.8,0.81
+Colisão com objeto,15087,784,5.2,0.73
+Colisão transversal,27161,1232,4.54,0.63
+Tombamento,18493,776,4.2,0.59
+Colisão traseira,41229,1727,4.19,0.58
+Capotamento,4346,168,3.87,0.54
+Queda de ocupante de veículo,9901,296,2.99,0.42
+Colisão lateral mesmo sentido,22791,591,2.59,0.36
+Engavetamento,3705,94,2.54,0.35
+Derramamento de carga,327,7,2.14,0.3
+Incêndio,4951,4,0.08,0.01
