@@ -16,5 +16,6 @@
     ],
     "duckdb.defaultDatabase": "SQL",
     "editor.tokenColorCustomizations": {
-    "comments": "#00008B"
+        "comments": "#00008B"
+    }
 }
